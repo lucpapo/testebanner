@@ -1,18 +1,28 @@
 {
-  "ofertas": [
+  "posts": [
     {
       "id": 1,
-      "title": "teste",
-      "combate":"sim",
-      "valor": 120,
-      "sufix":12
+      "title": "Post 1"
     },
-       {
-      "id":2,
-      "title": "teste2"  ,
-      "combate":"nao",
-      "valor": 300,
-      "sufix":20
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
