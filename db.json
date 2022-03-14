@@ -1,13 +1,7 @@
 {
   
   
-  "ofertas" : [
-    {"id":1, "ehcombate" : "N", "valor": 102, "prefixo": "00", "speed": 200},
-    {"id":2, "ehcombate" : "S", "valor": 99, "prefixo": "99", "speed": 500},
-    {"id":3, "ehcombate" : "N", "valor": 200, "prefixo": "50", "speed": 400}
-  
-  
-  ], 
+ 
   "posts": [
     {
       "id": 1,
