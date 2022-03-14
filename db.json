@@ -1,43 +1,26 @@
- 
-
   {
-  
-    'ofertas' : [
-        {'id':1, 'ehcombate' : 'N', 'valor': 102, 'prefixo': '00', 'speed': 200},
-        {'id':2, 'ehcombate' : 'S', 'valor': 99, 'prefixo': '99', 'speed': 500},
-        {'id':3, 'ehcombate' : 'N', 'valor': 200, 'prefixo': '50', 'speed': 400}
-      
-      
-      ], 
-    
- 
-  'posts': [
-    {
-      'id': 1,
-      'title': 'Poddddddddddst 1'
-    },
-    {
-      'id': 2,
-      'title': 'Post 2'
-    },
-    {
-      'id': 3,
-      'title': 'Post 3'
-    }
-  ],
-  'comments': [
-    {
-      'id': 1,
-      'body': 'some comment',
-      'postId': 1
-    },
-    {
-      'id': 2,
-      'body': 'some comment',
-      'postId': 1
-    }
-  ],
-  'profile': {
-    'name': 'typicode'
-  }
-}
+     "ofertas": [{
+             "id": 1,
+             "ehcombate": "N",
+             "valor": 102,
+             "prefixo": "00",
+             "speed": 200
+         },
+         {
+             "id": 2,
+             "ehcombate": "S",
+             "valor": 99,
+             "prefixo": "99",
+             "speed": 500
+         },
+         {
+             "id": 3,
+             "ehcombate": "N",
+             "valor": 200,
+             "prefixo": "50",
+             "speed": 400
+         }
+
+
+     ]
+ }
